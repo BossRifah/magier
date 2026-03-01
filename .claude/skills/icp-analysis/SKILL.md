@@ -7,6 +7,16 @@ description: Ideal Customer Profile (ICP) analysis. Use when the user wants to d
 
 Build a detailed Ideal Customer Profile (ICP) by researching and synthesizing firmographic, demographic, behavioral, and psychographic data.
 
+## IMPORTANT: Load Brand Context First
+
+**Before starting**, read these files:
+1. `brand/brand-overview.md` — current services, pricing, known social proof, and differentiators
+2. `brand/icp.md` — the existing ICP draft to refine or expand (do not start from scratch if it exists)
+
+Use the **Perplexity MCP** if connected to research competitor audiences, review customer reviews, and validate assumptions with real market data. Fall back to WebSearch if Perplexity is unavailable.
+
+When finished, **save the updated ICP back to `brand/icp.md`** so all other skills benefit from the improved audience definition.
+
 ## Workflow
 
 Make a todo list for all the tasks in this workflow and work on them one after another.

@@ -7,6 +7,15 @@ description: Market research and marketing strategy development. Use when the us
 
 Conduct structured market research and translate findings into an actionable marketing strategy.
 
+## IMPORTANT: Load Brand Context First
+
+**Before doing anything else**, read these files:
+1. `brand/brand-overview.md` — business context, services, differentiators
+2. `brand/icp.md` — target audience
+3. `brand/sops/research-sop.md` — research standards, competitor list, prompt library, and output format
+
+Apply the research SOP throughout this entire workflow. Use the Perplexity MCP if available — it is the preferred research tool for real-time, sourced data. Fall back to WebSearch if Perplexity is not connected.
+
 ## Workflow
 
 Make a todo list for all the tasks in this workflow and work on them one after another.

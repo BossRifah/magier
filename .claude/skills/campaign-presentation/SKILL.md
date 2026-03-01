@@ -7,6 +7,15 @@ description: Marketing campaign presentations and decks. Use when the user wants
 
 Build compelling, structured marketing presentations — from campaign proposals to performance read-outs — ready for stakeholder review.
 
+## IMPORTANT: Load Brand Context First
+
+**Before building the presentation**, read these files:
+1. `brand/brand-overview.md` — company facts, pricing, social proof to include
+2. `brand/voice-and-tone.md` — slide headlines must match brand voice
+3. `brand/icp.md` — frame audience sections using the ICP data
+
+Pull in data from any available analysis files in `campaigns/` to populate performance slides. Save the final presentation to `campaigns/[campaign-name]/presentation-[date].md`.
+
 ## Workflow
 
 Make a todo list for all the tasks in this workflow and work on them one after another.

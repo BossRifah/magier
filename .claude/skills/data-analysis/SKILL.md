@@ -7,6 +7,14 @@ description: Marketing data analysis and performance reporting. Use when the use
 
 Analyze marketing data to surface insights, diagnose performance, and drive data-informed decisions.
 
+## IMPORTANT: Load Brand Context First
+
+**Before analyzing any data**, read these files:
+1. `brand/brand-overview.md` — understand what channels and services are relevant
+2. `brand/icp.md` — frame audience performance insights in terms of the ideal customer
+
+Always save analysis outputs to `campaigns/[campaign-name]/` or a clearly named file. Recommend next steps that connect directly to the `/research-strategy` or `/campaign-presentation` skills.
+
 ## Workflow
 
 Make a todo list for all the tasks in this workflow and work on them one after another.

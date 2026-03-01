@@ -7,6 +7,16 @@ description: Marketing content writing and strategy. Use when the user wants to 
 
 Plan, write, and refine high-quality marketing content tailored to the target audience, channel, and campaign goal.
 
+## IMPORTANT: Load Brand Context First
+
+**Before writing a single word**, read these files:
+1. `brand/brand-overview.md` — what we sell, key facts, differentiators, pricing
+2. `brand/voice-and-tone.md` — how we sound (this is critical — your voice must match this)
+3. `brand/icp.md` — who you're writing for
+4. `brand/sops/content-sop.md` — channel standards, content pillars, file naming
+
+Every piece of content must pass the Content SOP checklist before being delivered.
+
 ## Workflow
 
 Make a todo list for all the tasks in this workflow and work on them one after another.

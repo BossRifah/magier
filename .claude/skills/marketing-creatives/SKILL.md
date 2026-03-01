@@ -7,6 +7,16 @@ description: Marketing creative briefs and asset planning. Use when the user wan
 
 Develop creative concepts, briefs, and specifications for marketing visual assets and campaigns.
 
+## IMPORTANT: Load Brand Context First
+
+**Before developing any creative concept**, read these files:
+1. `brand/brand-overview.md` — products, pricing, social proof, key differentiators
+2. `brand/visual-identity.md` — colors, typography, imagery style, what to avoid
+3. `brand/voice-and-tone.md` — the written voice that accompanies all visuals
+4. `brand/icp.md` — who the visuals must speak to
+
+If the **Image Generation MCP** (e.g., Nano Banana) is connected, generate actual visual mockups for each concept alongside the written brief. If it is not available, provide detailed visual descriptions that a designer can execute directly.
+
 ## Workflow
 
 Make a todo list for all the tasks in this workflow and work on them one after another.
